@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jschardt51
 - 👀 I’m interested in python, video restoration, and image processing
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on not sure yet ;-)
+- 🌱 Currently improving my python skills using flask.
+- 💞️ I’m looking to collaborate on the BMF digital library
 - 📫 How to reach me (stay tuned)
 
 <!---
